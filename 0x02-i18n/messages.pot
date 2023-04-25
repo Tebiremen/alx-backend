@@ -1,0 +1,19 @@
+# Translations template for i18n.
+# Copyright (C) 2023 Aitebiremen Okojie
+# This file is distributed under the same license as the i18n project.
+# Aitebiremen Okojie <okojie.aitebiremen@gmail.com>, 2023.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: okojie.aitebiremen@gmail.com\n"
+"POT-Creation-Date: 2023-04-25 06:48+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Aitebiremen Okojie <okojie.aitebiremen@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.1\n"
+
